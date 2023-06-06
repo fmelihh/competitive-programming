@@ -19,3 +19,5 @@ O
 number-of-senior-citizens.ipynb,8/d/8d09d3cc1e7d8dd77bcaf1d2b53b5bd10583344b
 U
 %sign-of-the-product-of-an-array.ipynb,3/b/3bdc6ea76e07d5fda98bdb726c2e927ab015f76b
+N
+count-square-sum-triples.ipynb,9/1/910f798e25bd9af5ac343cfbbc30c6f06927cdb2
